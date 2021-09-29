@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/css/main.0545a1c9.chunk.css",
+    "main.js": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/js/main.86b60a7c.chunk.js",
+    "main.js.map": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/js/main.86b60a7c.chunk.js.map",
+    "runtime-main.js": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/js/runtime-main.b64f0cf4.js",
+    "runtime-main.js.map": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/js/runtime-main.b64f0cf4.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.ceae6023.chunk.js": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/js/2.ceae6023.chunk.js",
+    "static/js/2.ceae6023.chunk.js.map": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/js/2.ceae6023.chunk.js.map",
+    "static/js/3.38f20c89.chunk.js": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/js/3.38f20c89.chunk.js",
+    "static/js/3.38f20c89.chunk.js.map": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/js/3.38f20c89.chunk.js.map",
+    "index.html": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.0545a1c9.chunk.css.map": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/css/main.0545a1c9.chunk.css.map",
+    "static/js/2.ceae6023.chunk.js.LICENSE.txt": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/js/2.ceae6023.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.1548aced.png": "/Project_Cryptocurrency--Reactjs-with-Rapid-Api/static/media/cryptocurrency.1548aced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b64f0cf4.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.ceae6023.chunk.js",
+    "static/css/main.0545a1c9.chunk.css",
+    "static/js/main.86b60a7c.chunk.js"
+  ]
+}
